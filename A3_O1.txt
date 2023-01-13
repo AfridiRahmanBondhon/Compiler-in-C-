@@ -1,0 +1,1 @@
+[#include][<][stdio.h][>][int][id main][(][id void][)][{][id printf][(]["][id Hello]["][)][;][float][id x1][=][3.125][;][;][;][id printf][(]["][id World]["][)][;][id return][0][;][}][id double][id f1][(][float][id a][,][int][int][id x][)][{][if][(][id x][<][id x1][)][id double][id z][;][;][else][id z][=][0.01][;][}][}][else][id return][id z][;][}]
